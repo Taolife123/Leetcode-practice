@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3be13fc-3501-4877-82e1-18e2cd79e8d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1Two Sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2ReverseInteger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598776458712</updated>
       <workItem from="1598776461491" duration="76000" />
+      <workItem from="1598776549079" duration="940000" />
     </task>
     <servers />
   </component>
@@ -142,6 +141,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Leetcode_practice$1Two_Sum.coverage" NAME="1Two Sum Coverage Results" MODIFIED="1598776499741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy Problems" />
     <SUITE FILE_PATH="coverage/Leetcode_practice$7Reverse_Integer.coverage" NAME="7Reverse Integer Coverage Results" MODIFIED="1598776509309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy Problems" />
-    <SUITE FILE_PATH="coverage/Leetcode_practice$9Palindrome_Number.coverage" NAME="9Palindrome Number Coverage Results" MODIFIED="1598776554830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy Problems" />
+    <SUITE FILE_PATH="coverage/Leetcode_practice$9Palindrome_Number.coverage" NAME="9Palindrome Number Coverage Results" MODIFIED="1598778946301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy Problems" />
   </component>
 </project>
