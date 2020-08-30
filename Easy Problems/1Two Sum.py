@@ -1,4 +1,5 @@
 """
+[Problem description] EASY
 Given an array of integers nums and and integer target, return the indices of the two numbers such that they add up to target.
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 You can return the answer in any order.
@@ -69,6 +70,7 @@ class Solution:
 if __name__ == "__main__":
     nums = [3,2,4]
     target = 6
+
     test = Solution()
     output = test.twoSum(nums, target)
     print(output)
